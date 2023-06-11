@@ -17,6 +17,7 @@ h1{
     padding: 20px;
     border-radius: 50%;
     box-shadow: 10px 10px 20px 10px rgb(255, 47, 255);
+    margin: 20px auto;
 }
 ul{
     list-style: none;
